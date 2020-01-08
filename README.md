@@ -20,8 +20,6 @@ Delete IntelliJ IDEA 20xx.x.x caches and local history
 **选择免费试用 "Evaluate for free"**
 
 ## 四、下载破解补丁
-[破解补丁(jetbrains-agent.jar)](https://github.com/sunnyzhy/IDEA/blob/master/jar/jetbrains-agent.jar)
-
 把破解补丁 jetbrains-agent.jar 存放到 IDEA 的安装目录的 bin 目录下，如"D:\Program Files\JetBrains\IntelliJ IDEA 2019.3.1\bin"
 
 ## 五、配置破解补丁
